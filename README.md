@@ -31,7 +31,7 @@ OIBSIP/ │── ATM INTERFACE/ │ ├── src/ (Java source files) │ ├�
  🛠 Setup Instructions
 
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/OIBSIP.git
+git clone https://github.com/asheesh109/OIBSIP.git
 cd OIBSIP 
 
 2️⃣ Import the Project into IntelliJ IDEA
