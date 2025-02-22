@@ -23,7 +23,15 @@ An interactive quiz application that:
 
  📂 Project Structure
 
-OIBSIP/ │── ATM INTERFACE/ │ ├── src/ (Java source files) │ ├── ATM.sql (Database dump for ATM system) │── QUIZ GAME/ │ ├── src/ (Java source files) │ ├── Quiz.sql (Database dump for Quiz system) │── README.md
+OIBSIP/  
+│── ATM INTERFACE/  
+│   ├── src/ (Java source files)  
+│   ├── ATM.sql (Database dump for ATM system)  
+│── QUIZ GAME/  
+│   ├── src/ (Java source files)  
+│   ├── Quiz.sql (Database dump for Quiz system)  
+│   ├── Quiz.json (JSON file used in the project)  
+│── README.md  
 
 
 ---
